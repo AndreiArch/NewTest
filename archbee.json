@@ -4,27 +4,10 @@
     "summary": "toc.md",
     "assets": "assets",
     "docsTree": [
-      {
-        "path": "test-page-2.mdx",
-        "children": []
-      },
-      {
-        "path": "test-page1.mdx",
-        "children": []
-      },
+    
       {
         "categoryName": "Shadow Docs",
-        "isCategory": true,
-        "children": [
-          {
-            "path": "archbee.json",
-            "children": []
-          },
-          {
-            "path": "test-page1.mdx",
-            "children": []
-          }
-        ],
+        "isCategory": true
         "isShadowDocs": true
       }
     ]
