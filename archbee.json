@@ -1,0 +1,27 @@
+{
+  "docsPath": "docs/",
+  "structure": {
+    "summary": "toc.md",
+    "assets": "assets",
+    "docsTree": [
+      {
+        "path": "test-page1.mdx",
+        "children": []
+      },
+      {
+        "path": "test-page-2.mdx",
+        "children": []
+      },
+      {
+        "categoryName": "Shadow Docs",
+        "isCategory": true,
+        "children": [],
+        "isShadowDocs": true
+      }
+    ]
+  },
+  "shadowDocs": [
+    "*",
+    "ola.json"
+  ]
+}
